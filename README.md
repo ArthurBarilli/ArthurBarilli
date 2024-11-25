@@ -21,7 +21,6 @@ Some of my work can be found on my Itch.io page which is right bellow
 <img align= "left" alt ="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
 
-
 ## 🎮 My latest projects on itch.io
 
 #
