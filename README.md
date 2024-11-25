@@ -7,7 +7,7 @@
 🌟 I thrive on learning and pushing boundaries, continuously refining my skills through game jams and personal projects. I recently expanded my expertise by diving into **System Developing and Analisis**, focusing on developing robust systems and exploring mobile game development.
 Some of my work can be found on my Itch.io page which is right bellow
 <p align="center">
-  <a href="https://barilli.itch.io"><img width="32px" alt="Itch.io" title="Barilli" src="https://custom-icon-badges.demolab.com/badge/itch.io-red.svg?logo=controller"/></a>
+  <a href="https://barilli.itch.io"><img width="64px" alt="Itch.io" title="Itch.io" src="https://custom-icon-badges.demolab.com/badge/itch.io-red.svg?logo=controller"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
