@@ -10,8 +10,10 @@ Some of my work can be found on my Itch.io page which is right bellow
   <a href="https://barilli.itch.io"><img width="128px" alt="Itch.io" title="Itch.io" src="https://custom-icon-badges.demolab.com/badge/itch.io-red.svg?logo=controller"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+---
+### Languages and Tools
+<img align= "left" alt ="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
 
-[![Static Badge](https://custom-icon-badges.demolab.com/badge/itch.io-red.svg?logo=controller)](https://barilli.itch.io)
 
 
 
