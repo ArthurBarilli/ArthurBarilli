@@ -6,7 +6,7 @@
 
 🌟 I thrive on learning and pushing boundaries, continuously refining my skills through game jams and personal projects. I recently expanded my expertise by diving into **System Developing and Analisis**, focusing on developing robust systems and exploring mobile game development.
 Some of my work can be found on my Itch.io page which is right bellow
-![Static Badge](https://custom-icon-badges.demolab.com/badge/controller-red.svg?logo=controller)
+![Static Badge](https://custom-icon-badges.demolab.com/badge/itch.io-red.svg?logo=controller)
 
 
 
