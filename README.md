@@ -21,7 +21,11 @@ Some of my work can be found on my Itch.io page which is right bellow
 
 ---
 
+#
+
 ## My latest projects on itch.io
+
+#
 
 ### [Snack Wars](https://barilli.itch.io/snack-wars)
 ### [Pagliacci ](https://barilli.itch.io/pagliacci)
