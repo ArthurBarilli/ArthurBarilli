@@ -1,6 +1,6 @@
 ## Arthur Barilli 👋
 
-**'Digital Craftsman (Developer/GameDev/Creator)'**
+**`Digital Craftsman (Developer/GameDev/Creator)`**
 <!--
 **ArthurBarilli/ArthurBarilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
